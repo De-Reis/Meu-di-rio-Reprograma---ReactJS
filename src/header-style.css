@@ -24,7 +24,8 @@ body {
 }
 
 .about img{
-    width:200x;height:200px;
+    width:200x;
+    height:200px;
     border-radius: 50%;
 }
 
@@ -51,6 +52,18 @@ body {
     font-weight: bold;
 }
 
+.redes {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.redes img {
+    height:50px;
+    margin:10px auto;
+}
 
 .card-container{
     margin:50px auto;
