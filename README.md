@@ -2,7 +2,7 @@
 Este é meu primeiro projeto utilizando ReactJS do zero. 
 Criando componentes e usando props
 
-[Link do projeto]()
+[Link do projeto](https://guileless-liger-fe8995.netlify.app/)
 
 ![meudiarioreprograma]()
 
